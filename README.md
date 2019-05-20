@@ -36,11 +36,12 @@ from actor_network import ActorNetwork
 ```
 
 ## Reference
-1 [https://github.com/rllab/rllab](https://github.com/rllab/rllab)
+1 [https://github.com/openai/baselines](https://github.com/openai/baselines)
 
-2 [https://github.com/MOCR/DDPG](https://github.com/MOCR/DDPG)
+2 [https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
 
-3 [https://github.com/SimonRamstedt/ddpg](https://github.com/SimonRamstedt/ddpg)
+3 [https://github.com/rllab/rllab](https://github.com/rllab/rllab)
+
 
 
 
